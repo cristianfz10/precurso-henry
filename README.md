@@ -1,2 +1,2 @@
-# precurso-henry
-este es un repositorio del modulo 2 de prueba del precourse de henry
+cristian
+este proyecto es una prueba de como crear un repositorio y clonarlo en nuestro escritorio
